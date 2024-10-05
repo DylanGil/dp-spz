@@ -1,0 +1,908 @@
+[
+  {
+    "name": "Son Goku (Z - Début)",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Z - Milieu)",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "Son Goku (Z - Milieu) Super Saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Z - Fin)",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Z - Fin) Super Saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Z - Fin) Super Saiyan 2",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Z - Fin) Super Saiyan 3",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (GT)",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (GT) Super Saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (GT) Super Saiyan 3",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (GT) Super Saiyan 4",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Ado)",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super)",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super) Super Saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super) Super Saiyan Divin",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super) Super Saiyan Blue",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super) Ultra Instinct Signes",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "Son Goku (Super) Ultra Instinct",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+
+  {
+    "name": "vegeta-z-scouter",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "great-ape-vegeta",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-z-early",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-z-early-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "super-vegeta",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-z-Fin",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-z-Fin-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-z-Fin-super-saiyan2",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "majin-vegeta",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-gt-super-saiyan4",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-super",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-super-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-super-super-saiyan-god",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "vegeta-super-super-saiyan-god-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-kid",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-teen",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-teen-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-teen-teen-super-saiyan2",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-adult",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-adult-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-adult-adult-super-saiyan2",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "great-saiyaman",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "ultimate-gohan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-future",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "gohan-future-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "piccolo",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "piccolo-fused-with-kami",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "nail",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "krillin",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "yamcha",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "tien",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "trunks-sword",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "trunks-sword-super-saiyan",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "trunks-melee",
+    "cost": 1,
+    "img": "goku(early).png"
+  },
+  {
+    "name": "trunks-melee-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-trunks",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "future-trunks",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "future-trunks-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "trunks-kid",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "trunks-kid-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "goten",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "goten-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "vegito",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-vegito",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "vegito-super-saiyan-god-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gogeta-super",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gogeta-super-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-gogeta-z",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gogeta-super-super-saiyan-god-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gogeta-gt-super-saiyan4",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gotenks",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gotenks-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "gotenks-super-saiyan3",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "videl",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "master-roshi",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "master-roshi-max-power",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-z-1stform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-z-2ndform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-z-3rdform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-z-4thform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-z-full-power",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "mecha-frieza",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-super",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "golden-frieza",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cell-1stform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cell-2ndform",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cell-perfect",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "perfect-cell",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cell-jr",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "majin-buu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "majin-buu-evil",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-buu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-buu-gotenks-absorbed",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-buu-gohan-absorbed",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kid-buu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "mr-satan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "chiaotzu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "yajirobe",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "pan-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "uub-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "majuub-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "bardock",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "raditz",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "saibaman",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "nappa",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "zarbon",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-zarbon",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "dodoria",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cui",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "captain-ginyu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "recoome",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "burter",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "jeice",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "guldo",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "king-cold",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-16",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-17-z",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-17-super",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-18",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-19",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "doctor-gero",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "babidi",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "dabura",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "broly-z",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "broly-z-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "broly-z-legendary-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "broly-super",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "broly-super-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-saiyan-broly-full-power",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-garlic-jr",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "dr-willow",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "turles",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "lord-slug",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "lord-slug-giant-form",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cooler",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cooler-final-form",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "metal-cooler",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "android-13",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "fusion-android-13",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "bojack",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "full-power-bojack",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "janemba",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-janemba",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "tapion",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "hirudegarn",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "baby-vegeta-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-baby-1-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-baby-2-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "great-ape-baby-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "syn-shenron-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "omega-shenron-gt",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "spopovich",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "beerus",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "whis",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "Son Goku-black",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "Son Goku-black-super-saiyan-rosé",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "zamasu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "fused-zamasu",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "fused-zamasu-half-corrupted",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "hit",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frost",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cabba",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cabba-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "cabba-super-saiyan2",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "caulifla",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "caulifla-super-saiyan2",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kale",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "super-saiyan-kale-berserk",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kale-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kefla",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kefla-super-saiyan",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kefla-super-saiyan2",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "jiren",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "jiren-full-power",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "toppo",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "toppo-god-of-destruction",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "dyspo",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "ribrianne",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "bergamo",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "kakunsa",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "roasie",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "anilaza",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  },
+  {
+    "name": "frieza-force-soldier",
+    "cost": 1,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-z-mid-super-saiyan.jpg?twic=v1/resize=-x200/step=10/quality=80"
+  }
+]
