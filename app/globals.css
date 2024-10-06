@@ -76,3 +76,7 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.card-clip {
+  clip-path: polygon(0 25%, 50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%);
+}

@@ -13,7 +13,7 @@ export const SearchCharacters = ({
   setSearch,
 }: SearchCharactersProps) => {
   return (
-    <div className="w-1/3 mx-auto p-5">
+    <div className="w-5/6 sm:w-2/3 xl:w-1/3 mx-auto p-5">
       <Label className="text-lg font-medium">
         Entrer le nom d&apos;un personnage:
       </Label>
