@@ -60,6 +60,11 @@
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-teen.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
   {
+    "name": "Son Goku (Mini)",
+    "cost": 4,
+    "img": "goku-(mini).png"
+  },
+  {
     "name": "Son Goku (Super)",
     "cost": 5,
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-goku-super.jpg?twic=v1/resize=-x180/step=10/quality=80"
