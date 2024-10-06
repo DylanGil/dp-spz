@@ -1,7 +1,9 @@
 "use client";
 
-import { Input } from "./input";
-import { Label } from "./label";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Button } from "@/components/ui/button";
+import { X } from "lucide-react";
 
 interface SearchCharactersProps {
   search: string;
@@ -17,12 +19,24 @@ export const SearchCharacters = ({
       <Label className="text-lg font-medium">
         Entrer le nom d&apos;un personnage:
       </Label>
-      <Input
-        placeholder="Son Goku (Ultra Instinct)"
-        className="border border-black"
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-      />
+      <div className="relative">
+        <Input
+          placeholder="Son Goku (Ultra Instinct)"
+          className="border border-black w-full h-11"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        />
+        {search && (
+          <Button
+            className="absolute rounded-full right-2 top-1/2 transform -translate-y-1/2 "
+            variant="ghost"
+            size="icon"
+            onClick={() => setSearch("")}
+          >
+            {<X strokeWidth={1.5} />}
+          </Button>
+        )}
+      </div>
     </div>
   );
 };
