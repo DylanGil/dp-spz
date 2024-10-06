@@ -102,7 +102,7 @@ export const DisplayCharacters = ({
                     <div className="cursor-not-allowed opacity-50">
                       <img
                         src={character.img}
-                        className="h-28 w-24 hover:transform hover:scale-110 transition-all grayscale card-clip"
+                        className="h-36 w-32 hover:transform hover:scale-110 transition-all grayscale card-clip"
                         alt="character"
                       />
                     </div>

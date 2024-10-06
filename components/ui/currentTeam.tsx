@@ -56,7 +56,7 @@ export const CurrentTeam = ({
                   <div>
                     <img
                       src={member.img}
-                      className="hover:transform hover:scale-110 transition-all w-24 h-28 card-clip"
+                      className="hover:transform hover:scale-110 transition-all h-36 w-32 card-clip"
                       alt="character"
                     />
                     <HoverCardContent>
@@ -69,7 +69,7 @@ export const CurrentTeam = ({
                 </HoverCardTrigger>
               </HoverCard>
             ) : (
-              <Card className="w-24 h-28 bg-white/10 card-clip" />
+              <Card className="h-36 w-32 bg-white/10 card-clip" />
             )}
           </div>
         ))}
