@@ -775,19 +775,19 @@
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-zamasu.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
   {
-    "name": "Zamasu fusionné",
+    "name": "Zamasu Fusionné",
     "cost": 8,
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-fused-zamasu.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
   {
-    "name": "Zamasu fusionné Moitié corrompu",
+    "name": "Zamasu Fusionné Moitié Corrompu",
     "cost": 9,
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-fused-zamasu-half-corrupted.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
   {
     "name": "Hit",
     "cost": 8,
-    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-hit.jpg?twic=v1/resize=-x180/step=10/quality=80"
+    "img": "hit.png"
   },
   {
     "name": "Frost",
@@ -857,7 +857,7 @@
   {
     "name": "Jiren Puissance max",
     "cost": 9,
-    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-jiren-full-power.jpg?twic=v1/resize=-x180/step=10/quality=80"
+    "img": "jiren-full-power.png"
   },
   {
     "name": "Toppo",
