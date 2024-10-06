@@ -62,7 +62,7 @@ export const DisplayCharacters = ({
         <AccordionItem value="available">
           <AccordionTrigger>Personnages disponibles</AccordionTrigger>
           <AccordionContent>
-            <div className="flex flex-wrap gap-5 p-4">
+            <div className="flex flex-wrap justify-center gap-5 p-4">
               {availableCharacters.map((character) => (
                 <HoverCard key={character.name} openDelay={400}>
                   <HoverCardTrigger>
@@ -95,7 +95,7 @@ export const DisplayCharacters = ({
         <AccordionItem value="unavailable">
           <AccordionTrigger>Personnages non disponibles</AccordionTrigger>
           <AccordionContent>
-            <div className="flex flex-wrap gap-5 p-4">
+            <div className="flex flex-wrap justify-center gap-5 p-4">
               {unavailableCharacters.map((character) => (
                 <HoverCard key={character.name} openDelay={400}>
                   <HoverCardTrigger>
