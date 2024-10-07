@@ -31,6 +31,19 @@ export default function ClientWrapper({ initialData }: ClientWrapperProps) {
         setTeamMembers={setTeamMembers}
         search={search}
       />
+      <footer className="flex items-center justify-center bg-gray-700 h-14 text-lg">
+        <p className="flex items-center justify-center">
+          Made with ❤️ by{" "}
+          <a
+            href="https://x.com/Xeralya"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline ml-1"
+          >
+            Xeralya
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
