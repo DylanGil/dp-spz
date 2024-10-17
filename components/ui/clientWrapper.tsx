@@ -22,16 +22,21 @@ export default function ClientWrapper({ initialData }: ClientWrapperProps) {
   }, []);
 
   return (
-    <div className="">
-      <CurrentTeam teamMembers={teamMembers} setTeamMembers={setTeamMembers} />
-      <SearchCharacters search={search} setSearch={setSearch} />
-      <DisplayCharacters
-        characters={initialData}
-        teamMembers={teamMembers}
-        setTeamMembers={setTeamMembers}
-        search={search}
-      />
-      <footer className="flex items-center justify-center bg-gray-700 h-14 text-lg">
+    <div className="flex flex-col h-screen">
+      <div className="grow">
+        <CurrentTeam
+          teamMembers={teamMembers}
+          setTeamMembers={setTeamMembers}
+        />
+        <SearchCharacters search={search} setSearch={setSearch} />
+        <DisplayCharacters
+          characters={initialData}
+          teamMembers={teamMembers}
+          setTeamMembers={setTeamMembers}
+          search={search}
+        />
+      </div>
+      <footer className="flex items-center justify-center bg-gray-700 py-4 text-lg">
         <p className="flex items-center justify-center">
           Made with ❤️ by{" "}
           <a
