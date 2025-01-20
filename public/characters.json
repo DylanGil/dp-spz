@@ -205,7 +205,7 @@
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-great-saiyaman.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
   {
-    "name": "Son Gohan ultime",
+    "name": "Son Gohan Ultime",
     "cost": 7,
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-ultimate-gohan.jpg?twic=v1/resize=-x180/step=10/quality=80"
   },
@@ -908,5 +908,60 @@
     "name": "Soldat des forces de Freezer",
     "cost": 2,
     "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragon-ball-sparking-zero/04-characters/RosterThumbnails/dbsz-character-thumbnail-frieza-force-soldier.jpg?twic=v1/resize=-x180/step=10/quality=80"
+  },
+  {
+    "name": "Son Gohan (Super Hero)",
+    "cost": 4,
+    "img": "https://media.graphassets.com/SgmeGiy1Qky21O3d6mwF"
+  },
+  {
+    "name": "Son Gohan (Super Hero) Super Saiyen",
+    "cost": 6,
+    "img": "https://media.graphassets.com/SiBapiMMRvatDfRJHlW8"
+  },
+  {
+    "name": "Son Gohan Ultime (Super Hero)",
+    "cost": 8,
+    "img": "https://media.graphassets.com/Gjxt0NLZSS6Fyv1EOhbw"
+  },
+  {
+    "name": "Son Gohan Beast (Super Hero)",
+    "cost": 9,
+    "img": "https://media.graphassets.com/VrkfuoVpQCGYMrF0WujI"
+  },
+  {
+    "name": "Piccolo (Super Hero)",
+    "cost": 5,
+    "img": "https://media.graphassets.com/e2vHnKQ3qmtW30KBUDJQ"
+  },
+  {
+    "name": "Piccolo Eveillé (Super Hero)",
+    "cost": 6,
+    "img": "https://media.graphassets.com/wDSZWewQo2c8auM6gJSC"
+  },
+  {
+    "name": "Piccolo Orange (Super Hero)",
+    "cost": 8,
+    "img": "https://media.graphassets.com/9OrR7lkPTBS3YfAVHVgj"
+  },
+  {
+    "name": "Piccolo Orange Forme Géante (Super Hero)",
+    "cost": 8,
+    "img": "https://media.graphassets.com/zFlidTozS7KTk19X0KfA"
+  },
+  {
+    "name": "Gamma 1",
+    "cost": 7,
+    "img": "https://media.graphassets.com/IFbNl7UfS2i3snjIg9rn"
+  },
+  {
+    "name": "Gamma 2",
+    "cost": 7,
+    "img": "https://media.graphassets.com/LXI7U82BSCG2gqpiq5hI"
+  },
+  {
+    "name": "Cell Max",
+    "cost": 9,
+    "img": "https://media.graphassets.com/8IqFe75PRLCB31XtTQ4c"
   }
 ]
